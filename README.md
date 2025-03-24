@@ -1,10 +1,11 @@
 ### 👋 Hello, I'm Kamil NACHAT !
-🚀 Passionné par le développement web et les nouvelles technologies.  
+Passionate about web development and new technologies.  
 📫 Contact : [kamil.nachat@outlook.fr](mailto:kamil.nachat@outlook.fr)  
 
-## 🌎 Mes Projets
-- 🔗 [Mon Portfolio](https://kamil-nachat.fr/)
-- 🛠️ [Mission en freelance React/Next.js en janvier 2024](https://h2n-auto.fr/)
+## 🌎 My Projects
+- 🔗 [My Portfolio](https://kamil-nachat.fr/)
+- 🚀 [My entrepreneurial project](https://angova.eu/)
+- 🛠️ [React/Next.js freelance assignment in January 2024](https://h2n-auto.fr/)
 
 
 <!--
