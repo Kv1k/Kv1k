@@ -5,7 +5,7 @@ Passionate about web development and new technologies.
 ## 🌎 My Projects
 - 🔗 [My Portfolio](https://kamil-nachat.fr/)
 - 🚀 [My entrepreneurial project](https://angova.eu/)
-- 🛠️ [React/Next.js freelance assignment in January 2024](https://h2n-auto.fr/)
+- 🛠️ [React/Next.js freelance assignment in January 2025](https://h2n-auto.fr/)
 
 
 <!--
